@@ -1,6 +1,9 @@
-# Hello-World
-To start with Git-Hub
-
 #Project- Synthesize Collections in Java
 
-I will add my ideas to synthesize collection framework in java and later will try to implement similar changes in NodeJS. 
+Hi,
+
+I will add my ideas to synthesize collection framework and will try to implement them in Java.
+Later will try to implement similar changes in NodeJS. 
+
+
+
